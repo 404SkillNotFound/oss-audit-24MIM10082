@@ -27,7 +27,7 @@ The project also includes a set of shell scripts designed to analyze system-leve
 ## Repository Structure
 
 
-- scripts/ # Shell scripts for system auditing
-- report/ # Final project report (PDF)
-- benchmarks/ # Optional performance data
-- README.md # Project documentation
+- scripts/ 
+- report/ 
+- benchmarks/
+- README.md 
